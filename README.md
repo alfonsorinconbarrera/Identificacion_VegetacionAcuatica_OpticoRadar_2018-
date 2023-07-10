@@ -8,4 +8,5 @@ Imágenes satelitales tipo radar y ópticas en la identificación de vegetación
 
 Fuente: NASA - Agencia Espacial Europea
 
-Composición y anáilis: Alfonso rincón barrera
+Composición y anáilis: 
+Alfonso rincón barrera
